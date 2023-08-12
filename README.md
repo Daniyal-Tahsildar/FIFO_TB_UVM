@@ -26,7 +26,8 @@ EDA Playground link : [Fifo_UVM_TB](https://www.edaplayground.com/x/X92F)
 - [Design](Design) : Contains the Verilog file for FIFO implementation
 - [Testbench](Testbench) : Within the testbench directory, you'll find a collection of UVM test files, each serving a specific purpose in thoroughly testing the FIFO implementation.
 - [Images](Images) : Contains the images used in this readme file.
-Feel free to explore these directories to gain insights into the project's architecture and components.
+  
+*Feel free to explore these directories to gain insights into the project's architecture and components.*
 
 
 TODO: Update readme
