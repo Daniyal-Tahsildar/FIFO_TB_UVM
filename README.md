@@ -2,7 +2,7 @@
 ### Description
 This repository contains a Verilog implementation of a Synchronous FIFO (First-In-First-Out) design, along with a UVM (Universal Verification Methodology) testbench for comprehensive verification. The FIFO design provides a reliable data storage mechanism with synchronous read and write operations, while the UVM testbench ensures the functional correctness and performance of the design.
 
-EDA Playground link : [Fifo_UVM_TB](https://www.edaplayground.com/x/X92F) 
+EDA Playground link : [FIFO_UVM_TB](https://www.edaplayground.com/x/X92F) 
 
 ## Synchronous FIFO Design and UVM Testbench
 
