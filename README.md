@@ -5,7 +5,10 @@ This repository contains a Verilog implementation of a Synchronous FIFO (First-I
 EDA Playground link : [FIFO_UVM_TB](https://www.edaplayground.com/x/X92F) 
 
 ## Synchronous FIFO Design and UVM Testbench
-
+<p align="center">
+  <img src="Images/Fifo_diagram.jpg" width="50%" height="auto"/>
+</p>
+  
 ### Features
 
 - Synchronous FIFO Design: A robust synchronous FIFO design is implemented in Verilog, offering efficient data storage and retrieval capabilities.
