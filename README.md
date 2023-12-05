@@ -8,6 +8,7 @@ EDA Playground link : [FIFO_UVM_TB](https://www.edaplayground.com/x/X92F)
 <p align="center">
   <img src="Images/Fifo_diagram.jpg" width="50%" height="auto"/>
 </p>
+<p align="center"> <em>FIFO Block Diagram </em></p>
   
 ### Features
 
@@ -17,6 +18,7 @@ EDA Playground link : [FIFO_UVM_TB](https://www.edaplayground.com/x/X92F)
   
 ### Design Simulation Output:
   <img src="Images/Fifo_waveform.png" width="100%" height="auto"/>
+  <p align="center"> <em>Simulation Waveforms </em></p>
   
 ### Prerequisites
 
